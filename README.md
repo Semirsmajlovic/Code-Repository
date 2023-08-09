@@ -37,9 +37,7 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/Semirsmajlovic/Code-Repository"><strong>Explore the docs »</strong></a>
+    Repository dedicated to curating and storing versatile code snippets from a wide range of programming languages. A go-to resource for seeking quick solutions and code references.
     <br />
     <br />
     <a href="https://github.com/Semirsmajlovic/Code-Repository">View Demo</a>
