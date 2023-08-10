@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Code Repository</h3>
 
   <p align="center">
     Repository dedicated to curating and storing versatile code snippets from a wide range of programming languages. A go-to resource for seeking quick solutions and code references.
@@ -55,11 +55,23 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#php">PHP</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>
+          <a href="#wordpress">WordPress</a>
+          <ul>
+            <li><a href="#admin-events-order">Admin Events Order</a></li>
+            <li><a href="#ai-action-enhancer">AI Action Enhancer</a></li>
+            <li><a href="#ai-action-enhancer">AI Admin Redirector</a></li>
+            <li><a href="#ai-action-enhancer">AI Content Enhancer</a></li>
+            <li><a href="#ai-action-enhancer">Events Date Formatter</a></li>
+            <li><a href="#ai-action-enhancer">Organizer Email Cleaner</a></li>
+            <li><a href="#ai-action-enhancer">Thumbnail Labeler Events</a></li>
+          </ul>
+        </li>
       </ul>
     </li>
+    <!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -73,6 +85,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    -->
   </ol>
 </details>
 
