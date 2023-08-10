@@ -35,9 +35,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
 <h3 align="center">Code Repository</h3>
-
   <p align="center">
     Repository dedicated to curating and storing versatile code snippets from a wide range of programming languages. A go-to resource for seeking quick solutions and code references.
     <br />
@@ -49,8 +47,6 @@
     <a href="https://github.com/Semirsmajlovic/Code-Repository/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
